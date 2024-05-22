@@ -1,0 +1,9 @@
+[submodule "VPTDashboard"]
+	path = VPTDashboard
+	url = https://github.com/Vermillion-Power-Technologies/VPTDashboard.git
+[submodule "VPTDashboard-FastAPI"]
+	path = VPTDashboard-FastAPI
+	url = https://github.com/Vermillion-Power-Technologies/VPTDashboard-FastAPI.git
+[submodule "Telegraf-Influx-Grafana"]
+	path = Telegraf-Influx-Grafana
+	url = https://github.com/Vermillion-Power-Technologies/Telegraf-Influx-Grafana.git
